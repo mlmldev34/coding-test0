@@ -1,0 +1,1 @@
+a,b=int(input()),int(input());print(1+2*(a<0) if a*b>0 else 2+2*(a>0))
