@@ -1,0 +1,1 @@
+a=eval(input().replace(' ','-'));print('==' if a==0 else ('>' if a>0 else '<'))
