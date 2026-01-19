@@ -1,0 +1,1 @@
+a,b=int(input()),list('AABCD'+'F'*6);[print(b[i]) if a//10==10-i else 1 for i in range(11)]
