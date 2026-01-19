@@ -1,0 +1,1 @@
+a,b=input(),input();[print(str(int(a)*int(b[i]))) for i in range(2,-1,-1)];print(int(a)*int(b))
