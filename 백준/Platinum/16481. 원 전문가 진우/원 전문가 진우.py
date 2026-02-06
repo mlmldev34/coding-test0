@@ -1,0 +1,1 @@
+print(eval('1/(1/'+input().replace(' ','+1/')+')'))
