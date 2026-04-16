@@ -1,0 +1,1 @@
+print(eval(''.join(list(reversed(('*'+input()).split())))))

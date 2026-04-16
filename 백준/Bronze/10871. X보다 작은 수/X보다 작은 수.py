@@ -1,0 +1,1 @@
+n,x=input().split();[print(i,end=' ') if int(i)<int(x) else 0 for i in input().split()]

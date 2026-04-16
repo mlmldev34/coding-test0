@@ -1,0 +1,1 @@
+print(' '.join([str(i.count('@')) for i in input().split('(^0^)')]))

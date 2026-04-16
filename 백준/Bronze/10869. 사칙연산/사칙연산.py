@@ -1,0 +1,1 @@
+a=input();print("\n".join([str(eval(a.replace(' ',i))) for i in ['+','-','*','//','%']]))

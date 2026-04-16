@@ -1,0 +1,1 @@
+n=int(input());a=[map(int,input().split()) for i in range(n)];[print('Case #'+str(k)+':',sum(a[k-1])) for k in range(1, n+1)]

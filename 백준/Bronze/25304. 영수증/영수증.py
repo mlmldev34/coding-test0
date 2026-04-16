@@ -1,0 +1,1 @@
+p,n=int(input()),int(input());print('Yes' if p==sum([eval(input().replace(' ','*')) for k in range(n)]) else 'No')

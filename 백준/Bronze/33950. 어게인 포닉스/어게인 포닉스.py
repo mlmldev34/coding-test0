@@ -1,0 +1,1 @@
+print('\n'.join([input().replace('PO','PHO') for i in range(int(input()))]))

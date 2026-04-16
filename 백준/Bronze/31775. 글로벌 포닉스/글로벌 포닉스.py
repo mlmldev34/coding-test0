@@ -1,0 +1,1 @@
+print(['PONIX','GLOBAL'][int(set([input()[0] for _ in range(3)]) == set(list('klp')))])

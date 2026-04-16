@@ -1,0 +1,3 @@
+n=int(input())
+for k in range(n,0,-1):
+  print(' '*(n-k)+'*'*(k*2-1))
